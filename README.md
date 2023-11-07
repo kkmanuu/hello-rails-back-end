@@ -49,7 +49,7 @@ To get a local copy up and running, follow these steps.
 - git clone  https://github.com/kkmanuu/hello-rails-back-end
 - git clone  https://github.com/kkmanuu/hello-react-front-end
 ### Setup
-Clone this repository to your desired folder:
+Clone this repository to your desired folder :
 ```bash
 git clone git@github.com:kkmanuu/hello-rails-react.git
 ```
