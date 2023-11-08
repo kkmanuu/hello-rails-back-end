@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 module Api
   module V1
     # Controller for managing greetings in the API.
